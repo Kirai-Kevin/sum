@@ -60,3 +60,7 @@ To run the Advanced Text Summarizer for Students on your local machine, follow t
 6. Enter your text in the provided text area, adjust the summary settings, and select additional features as needed.
 
 7. Click on "Generate Summary and Features" to process the text and view the results.
+
+## collaborators 
+Kevin Kirai
+Vincent Kimani
